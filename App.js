@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Countdown</Text>
+      <Text>Enter title to begin</Text>
       <StatusBar style="auto" />
     </View>
   );
